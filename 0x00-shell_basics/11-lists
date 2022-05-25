@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -Ra /rot/alx-system_engineering-devops 
+ls -alR /root/alx-system_engineering-devops/0x00-shell_basics 
