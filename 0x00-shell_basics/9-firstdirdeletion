@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -rvf /tmp/
+rm -rvf /tmp/my_first_directory
